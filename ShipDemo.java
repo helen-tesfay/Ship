@@ -1,3 +1,19 @@
+/*
+   The Ship project is to store and print information about three ships: a general ship, a cruise ship, and a cargo ship.
+   This is the required information:
+
+      General ship:
+         - Ship name, year built
+         
+      Cruise ship:
+         - Ship name, year built, maximum passenger capacity
+       
+      Cargo ship:
+         - Ship name, year built, maximum cargo capacity
+      
+   Project by Helen Tesfay
+*/
+
 public class ShipDemo
 {
    public static void main(String[] args)
@@ -19,6 +35,12 @@ public class ShipDemo
   }
 }  
 
+
+   
+   
+
+   
+   
 
    
    
